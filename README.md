@@ -10,7 +10,6 @@ A list of keyboards that use the same breakout:
 * Masterkeys series (Light and Pro in various flavours)
 * Possibly others
 
-![Render](images/render_main.png)
 
 <img src="images/QFRi_Nova_Full.jpg" alt="QFRi and Novatouch breakouts" width="400"/> <img src="images/QFRi_Nova_JST.jpg" alt="JST close up" width="400"/>
 
