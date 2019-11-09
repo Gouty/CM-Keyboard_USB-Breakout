@@ -22,8 +22,6 @@ Note that the QFRi and Novatouch breakouts are the same, but the JST is wired in
 
 ![Side view](images/usb_side_measurements.jpg)
 
-![Case view](images/case_top.jpg)
-
 
 ## Possible Alternative
 
