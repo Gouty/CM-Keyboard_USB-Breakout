@@ -10,3 +10,24 @@ A list of keyboards that use the same breakout:
 * Masterkeys series (Light and Pro in various flavours)
 * Possibly others
 
+![Render](images/render_main.png)
+
+<img src="images/QFRi_Nova_Full.jpg" alt="QFRi and Novatouch breakouts" width="400"/> <img src="images/QFRi_Nova_JST.jpg" alt="JST close up" width="400"/>
+
+Note that the QFRi and Novatouch breakouts are the same, but the JST is wired in the reverse order.
+
+
+## Dimensions
+
+![Top view](images/usb_top_measurements.jpg)
+
+![Side view](images/usb_side_measurements.jpg)
+
+![Case view](images/case_top.jpg)
+
+
+## Possible Alternative
+
+It is possible that a similar Ducky USB-C could be used or modified for use
+
+![Ducky Cable](images/ducky.png)
